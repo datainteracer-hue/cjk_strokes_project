@@ -1,0 +1,31 @@
+<svg id="z20843" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+  <path id="z20843d1" d="M 317 465 Q 318 338 155 190 Q 136 178 79 126 Q 67 110 85 113 Q 110 114 146 137 Q 258 209 325 305 Q 368 363 406 409 Q 419 422 404 441 Q 355 486 329 484 Q 316 483 317 465 Z"/>
+  <path id="z20843d2" d="M 446 687 Q 507 636 530 577 Q 608 343 711 190 Q 732 163 846 151 Q 892 147 958 141 Q 983 140 984 146 Q 984 152 963 163 Q 756 269 675 396 Q 621 480 551 644 Q 530 690 483 702 Q 449 709 445 702 Q 438 692 446 687 Z"/>
+<defs>
+  <clipPath id="z20843c1"><use href="#z20843d1"/></clipPath>
+  <clipPath id="z20843c2"><use href="#z20843d2"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z20843c1)" d="M 331 470 L 358 421 L 291 303 L 204 206 L 143 156 L 89 123"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z20843c2)" d="M 452 695 L 484 681 L 525 640 L 645 378 L 693 302 L 755 227 L 839 190 L 978 147"/>
+</svg>
