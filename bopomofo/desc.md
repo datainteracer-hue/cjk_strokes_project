@@ -1,4 +1,4 @@
 This contains the stroke order for characters from U+3105 (12549) to U+3129 (12585)
 
 References:
-https://stroke-order.learningweb.moe.edu.tw/phonetic.jsp
+- https://stroke-order.learningweb.moe.edu.tw/phonetic.jsp
