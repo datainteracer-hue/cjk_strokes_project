@@ -2,6 +2,9 @@
 
 Animation style adapted from [animCJK](https://github.com/parsimonhi/animCJK) project
 
+Files are split as <b>full</b> (animation styles included in svg) or <b>split</b> (animation styles in style.css)
+Files are named as its HTML code.
+
 Sources and References
 | Text Type | Source |
 |-----------|--------|
