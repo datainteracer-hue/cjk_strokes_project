@@ -1,0 +1,79 @@
+@keyframes drawStroke {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+svg.acjk, svg.grid {
+  position: absolute;
+  transform: translateX(-50%);
+  max-width: 200px;
+  max-height: 200px;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+svg.grid {
+  z-index: 0;
+}
+
+svg.acjk {
+  position: absolute;
+  z-index: 1;
+}
+
+/* Animated stroke paths */
+svg.acjk path[clip-path] {
+  stroke: #000;
+  stroke-width: 128;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  fill: none;
+
+  stroke-dasharray: 0;
+  stroke-dashoffset: 0;
+
+}
+
+.animation {
+  animation: drawStroke 0.8s linear forwards var(--d, 0s);
+}
+
+svg.grid line {
+  stroke: grey;
+  stroke-width: 2;
+  stroke-dasharray: 32, 32; 
+}
+
+svg.acjk path[id] {
+  fill: #ccc;
+}
+
+.characters {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 0 20px;
+}
+
+.svg-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.character {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 1 / 1;
+}
+
+.character-wrapper {
+  display: flex;
+  flex-direction: column;
+}
