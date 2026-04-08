@@ -1,0 +1,46 @@
+<svg id="z132541" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+  <path id="z132541d1" d="M 140 248 Q 166 275 195 306 Q 207 322 225 321 Q 237 322 244 307 Q 249 291 242 258 Q 233 224 137 195 Q 121 191 113 193 Q 107 197 108 211 Q 112 224 140 248 Z"/>
+  <path id="z132541d2" d="M 97 592 Q 87 608 70 606 Q 60 605 51 600 Q 32 594 33 617 Q 57 692 102 705 Q 120 708 128 682 Q 160 592 261 414 Q 274 401 272 388 Q 272 375 256 386 Q 174 489 97 592 Z"/>
+  <path id="z132541d3" d="M 515 274 Q 577 174 601 152 Q 611 142 607 126 Q 603 113 574 88 Q 547 69 528 68 Q 509 69 516 92 Q 529 125 517 151 Q 445 311 291 488 Q 281 498 278 505 Q 274 517 289 514 Q 339 508 501 293 L 515 274 Z"/>
+  <path id="z132541d4" d="M 660 301 Q 968 243 982 231 Q 992 222 987 213 Q 980 200 949 191 Q 922 185 811 220 Q 658 259 515 274 C 486 277 483 278 501 293 Q 536 329 619 309 L 660 301 Z"/>
+  <path id="z132541d5" d="M 687 623 Q 687 554 688 484 L 688 463 Q 689 382 697 347 Q 700 329 660 301 C 636 283 606 282 619 309 Q 651 342 631 693 Q 627 741 622 775 Q 621 811 614 827 Q 602 867 641 928 Q 654 950 663 955 Q 676 956 681 941 Q 696 904 691 870 Q 687 752 687 647 L 687 623 Z"/>
+  <path id="z132541d6" d="M 688 484 Q 700 493 723 491 Q 825 475 901 466 Q 928 462 919 446 Q 906 427 875 422 Q 848 418 798 431 Q 738 449 688 463 C 664 470 664 470 688 484 Z"/>
+  <path id="z132541d7" d="M 687 647 L 688 647 Q 700 656 725 653 Q 843 638 930 631 Q 961 627 950 610 Q 937 591 906 583 Q 875 579 687 623 C 659 630 661 634 687 647 Z"/>
+<defs>
+  <clipPath id="z132541c1"><use href="#z132541d1"/></clipPath>
+  <clipPath id="z132541c2"><use href="#z132541d2"/></clipPath>
+  <clipPath id="z132541c3"><use href="#z132541d3"/></clipPath>
+  <clipPath id="z132541c4"><use href="#z132541d4"/></clipPath>
+  <clipPath id="z132541c5"><use href="#z132541d5"/></clipPath>
+  <clipPath id="z132541c6"><use href="#z132541d6"/></clipPath>
+  <clipPath id="z132541c7"><use href="#z132541d7"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z132541c1)" d="M 118 201 L 225 302"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z132541c2)" d="M 45 612 L 101 641 L 264 388"/>
+<path style="--d:3s;" pathLength="3333" clip-path="url(#z132541c3)" d="M 528 83 L 562 134 L 287 505"/>
+<path style="--d:4s;" pathLength="3333" clip-path="url(#z132541c4)" d="M 510 292 L 975 219"/>
+<path style="--d:5s;" pathLength="3333" clip-path="url(#z132541c5)" d="M 628 311 L 662 615 L 666 944"/>
+<path style="--d:6s;" pathLength="3333" clip-path="url(#z132541c6)" d="M 696 468 L 907 453"/>
+<path style="--d:7s;" pathLength="3333" clip-path="url(#z132541c7)" d="M 688 641 L 937 617"/>
+</svg>

@@ -1,0 +1,37 @@
+<svg id="z23610" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+  <path id="z23610d1" d="M 663 358 Q 699 253 740 227 Q 759 206 743 186 Q 724 170 666 140 Q 645 131 621 140 Q 527 180 369 206 C 339 211 356 247 385 241 Q 397 240 599 193 Q 624 187 634 197 Q 644 209 640 233 Q 624 297 604 350 C 594 378 653 386 663 358 Z"/>
+  <path id="z23610d2" d="M 406 433 Q 491 411 674 395 Q 687 394 688 383 Q 688 376 663 358 L 604 350 Q 600 350 600 351 Q 471 384 368 398 C 302 407 343 449 406 433 Z"/>
+  <path id="z23610d3" d="M 369 206 Q 320 179 304 182 Q 282 185 298 209 Q 329 266 303 478 Q 294 563 246 665 Q 210 746 105 835 Q 89 848 86 855 Q 83 862 96 862 Q 141 862 225 779 Q 306 695 340 567 Q 356 482 361 445 L 368 398 Q 374 340 379 274 Q 383 252 385 241 C 389 217 389 217 369 206 Z"/>
+  <path id="z23610d4" d="M 361 445 Q 418 490 533 655 Q 674 850 731 855 Q 837 865 924 861 Q 970 860 967 847 Q 966 840 757 758 Q 606 680 442 468 Q 424 446 406 433 C 383 414 338 425 361 445 Z"/>
+<defs>
+  <clipPath id="z23610c1"><use href="#z23610d1"/></clipPath>
+  <clipPath id="z23610c2"><use href="#z23610d2"/></clipPath>
+  <clipPath id="z23610c3"><use href="#z23610d3"/></clipPath>
+  <clipPath id="z23610c4"><use href="#z23610d4"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z23610c1)" d="M 379 209 L 660 174 L 686 216 L 612 345"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z23610c2)" d="M 367 438 L 679 384"/>
+<path style="--d:3s;" pathLength="3333" clip-path="url(#z23610c3)" d="M 304 196 L 347 249 L 240 726 L 94 854"/>
+<path style="--d:4s;" pathLength="3333" clip-path="url(#z23610c4)" d="M 376 449 L 710 789 L 963 849"/>
+</svg>
