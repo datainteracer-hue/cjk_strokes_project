@@ -1,15 +1,4 @@
 <!--
-AnimCJK 2016-2025 Copyright FM-SH - https://github.com/parsimonhi/animCJK
-Derived from:
-    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
-    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
-    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
-You can redistribute and/or modify this file under the terms of the Arphic Public License
-as published by Arphic Technology Co., Ltd.
-You should have received a copy of this license (the directory "APL") along with this file;
-if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
--->
-<svg id="z20805" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <style>
 <![CDATA[
 @keyframes zk {
@@ -24,12 +13,24 @@ svg.acjk path[clip-path] {
 	stroke-dashoffset:3339;
 	stroke-width:128;
 	stroke-linecap:round;
+	stroke-linejoin:round;
 	fill:none;
 	stroke:#000;
 }
 svg.acjk path[id] {fill:#ccc;}
 ]]>
 </style>
+AnimCJK 2016-2025 Copyright FM-SH - https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
+    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license (the directory "APL") along with this file;
+if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z20805" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <path id="z20805d1" d="M 494 305 C 687 271 778 254 789 245 C 811 225 779 213 759 207 C 738 200 717 202 697 209 C 640 225 569 246 529 253 C 487 260 487 260 466 263 C 397 273 314 282 240 287 C 215 288 208 300 228 310 C 297 343 365 327 436 315 C 475 308 475 308 494 305 Z"/>
 <path id="z20805d2" d="M 543 485 C 555 482 603 472 632 467 C 640 466 625 447 617 448 C 541 456 462 465 385 476 C 369 478 367 475 373 469 C 425 407 483 321 494 305 C 517 270 517 270 529 253 C 565 198 576 184 586 173 C 608 146 594 132 565 111 C 510 70 514 118 515 138 C 515 155 497 207 466 263 C 446 298 446 298 436 315 C 422 338 377 403 348 435 C 333 450 309 466 280 478 C 261 485 251 491 251 499 C 250 511 253 524 259 538 C 265 552 272 560 282 565 C 285 566 293 567 301 563 C 323 550 348 539 375 531 C 396 524 396 524 406 521 C 435 511 485 499 503 495 C 535 487 529 488 543 485 Z"/>
 <path id="z20805d3" d="M 632 467 C 658 501 677 518 684 520 C 690 520 696 518 701 511 C 706 502 707 488 706 470 C 705 452 694 433 671 416 C 648 399 622 384 596 370 C 586 365 580 363 576 365 C 572 366 570 371 570 380 C 569 384 584 406 617 448 C 627 461 627 461 632 467 Z"/>

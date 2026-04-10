@@ -1,15 +1,4 @@
 <!--
-AnimCJK 2016-2025 Copyright FM-SH - https://github.com/parsimonhi/animCJK
-Derived from:
-    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
-    Arphic PL KaitiM GB font
-    Arphic PL UKai font
-You can redistribute and/or modify this file under the terms of the Arphic Public License
-as published by Arphic Technology Co., Ltd.
-You should have received a copy of this license along with this file;
-if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
--->
-<svg id="z30000" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <style>
 <![CDATA[
 @keyframes zk {
@@ -24,12 +13,24 @@ svg.acjk path[clip-path] {
 	stroke-dashoffset:3339;
 	stroke-width:128;
 	stroke-linecap:round;
+	stroke-linejoin:round;
 	fill:none;
 	stroke:#000;
 }
 svg.acjk path[id] {fill:#ccc;}
 ]]>
 </style>
+AnimCJK 2016-2025 Copyright FM-SH - https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB font
+    Arphic PL UKai font
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license along with this file;
+if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z30000" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <path id="z30000d1" d="M 225 280 C 209 269 191 261 175 258 C 146 251 157 279 165 293 C 205 370 229 498 231 678 C 231 710 235 738 247 759 C 276 807 294 799 301 736 C 302 723 301 723 297 700 C 290 663 257 367 261 326 C 261 307 241 292 225 280 Z"/>
 <path id="z30000d2" d="M 704 708 C 713 780 741 831 779 748 C 795 711 808 592 814 552 C 820 504 830 427 840 377 C 847 338 855 307 873 285 C 886 268 889 255 879 245 C 862 228 833 211 798 195 C 781 186 763 188 738 197 C 663 222 582 238 496 252 C 422 263 331 274 225 280 C 206 280 242 329 261 326 C 319 314 383 302 459 291 C 495 286 495 286 513 283 C 571 274 633 264 701 254 C 753 245 778 265 777 314 C 774 391 766 448 750 554 C 743 596 735 652 714 688 C 710 694 703 701 704 708 Z"/>
 <path id="z30000d3" d="M 530 507 C 575 499 618 493 658 491 C 699 488 686 461 646 450 C 617 441 587 453 532 464 C 497 471 497 471 479 474 C 431 482 386 490 345 498 C 332 500 329 507 347 518 C 387 543 416 525 480 515 C 513 510 513 510 530 507 Z"/>

@@ -1,0 +1,13 @@
+<svg id="z12483" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<path id="z12483d1" d="M 205 404 C 234 445 247 486 271 529 C 276 538 288 547 299 542 C 319 535 325 512 322 492 C 319 466 294 432 232 391 C 209 375 193 388 205 404 Z"/>
+<path id="z12483d2" d="M 413 352 C 445 390 463 431 484 477 C 493 498 536 481 534 440 C 532 413 520 388 445 336 C 410 311 392 325 413 352 Z"/>
+<path id="z12483d3" d="M 728 327 C 677 326 705 371 695 409 C 678 474 578 665 418 812 C 349 875 359 896 429 844 C 590 726 687 594 768 461 C 779 443 785 428 804 419 C 842 401 761 328 728 327 Z"/>
+<defs>
+	<clipPath id="z12483c1"><use href="#z12483d1"/></clipPath>
+	<clipPath id="z12483c2"><use href="#z12483d2"/></clipPath>
+	<clipPath id="z12483c3"><use href="#z12483d3"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z12483c1)" d="M 214 396 L 300 535"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z12483c2)" d="M 414 328 L 503 478"/>
+<path style="--d:3s;" pathLength="3333" clip-path="url(#z12483c3)" d="M 716 335 L 759 395 L 383 863"/>
+</svg>

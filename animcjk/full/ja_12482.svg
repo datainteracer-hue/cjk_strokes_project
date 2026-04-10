@@ -1,0 +1,40 @@
+<svg id="z12482" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+<path id="z12482d1" d="M 631 99 C 607 99 596 138 576 153 C 526 189 446 228 321 266 C 237 292 296 296 325 294 C 372 291 424 279 473 264 C 473 264 473 264 473 264 C 504 255 504 255 520 251 C 595 227 659 203 689 202 C 746 202 669 111 641 101 C 638 100 634 99 631 99 Z"/>
+<path id="z12482d2" d="M 259 482 C 78 497 131 517 149 531 C 163 541 178 550 194 555 C 222 563 251 553 279 546 C 349 531 423 509 570 489 C 664 476 760 477 855 486 C 868 488 883 490 895 484 C 908 478 909 458 899 448 C 890 439 881 430 870 423 C 852 411 830 409 810 410 C 769 411 728 417 688 422 C 648 427 328 476 259 482 Z"/>
+<path id="z12482d3" d="M 473 264 C 496 383 493 659 393 816 C 282 990 365 919 425 851 C 554 707 558 424 558 417 C 559 380 558 350 575 317 C 587 295 541 264 520 251 C 506 243 470 248 473 264 Z"/>
+<path id="z12482d4" d="M 789 140 C 780 141 777 156 785 160 C 799 171 814 180 826 193 C 847 215 861 243 879 267 C 886 275 901 279 909 270 C 920 258 917 241 915 227 C 912 205 900 183 880 172 C 857 158 831 150 805 142 C 800 141 795 141 789 140 Z"/>
+<path id="z12482d5" d="M 857 72 C 848 71 845 87 853 91 C 868 102 885 111 896 126 C 917 148 931 175 948 200 C 956 209 972 210 979 199 C 990 185 985 166 982 150 C 977 131 966 112 947 103 C 923 88 895 79 868 72 C 864 72 861 71 857 72 Z"/>
+<defs>
+	<clipPath id="z12482c1"><use href="#z12482d1"/></clipPath>
+	<clipPath id="z12482c2"><use href="#z12482d2"/></clipPath>
+	<clipPath id="z12482c3"><use href="#z12482d3"/></clipPath>
+	<clipPath id="z12482c4"><use href="#z12482d4"/></clipPath>
+	<clipPath id="z12482c5"><use href="#z12482d5"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z12482c1)" d="M 629 116 L 660 170 L 288 287"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z12482c2)" d="M 139 508 L 772 429 L 888 472"/>
+<path style="--d:3s;" pathLength="3333" clip-path="url(#z12482c3)" d="M 500 273 L 533 312 L 487 725 L 349 916"/>
+<path style="--d:4s;" pathLength="3333" clip-path="url(#z12482c4)" d="M 784 154 L 889 262"/>
+<path style="--d:5s;" pathLength="3333" clip-path="url(#z12482c5)" d="M 853 84 L 959 192"/>
+</svg>

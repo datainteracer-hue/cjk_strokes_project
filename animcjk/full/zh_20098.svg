@@ -1,15 +1,4 @@
 <!--
-AnimCJK 2016-2025 Copyright FM&SH, https://github.com/parsimonhi/animCJK
-Derived from:
-    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
-    Arphic PL KaitiM GB font
-    Arphic PL UKai font
-You can redistribute and/or modify this file under the terms of the Arphic Public License
-as published by Arphic Technology Co., Ltd.
-You should have received a copy of this license along with this file.
-If not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
--->
-<svg id="z20098" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <style>
 <![CDATA[
 @keyframes zk {
@@ -24,12 +13,24 @@ svg.acjk path[clip-path] {
 	stroke-dashoffset:3339;
 	stroke-width:128;
 	stroke-linecap:round;
+	stroke-linejoin:round;
 	fill:none;
 	stroke:#000;
 }
 svg.acjk path[id] {fill:#ccc;}
 ]]>
 </style>
+AnimCJK 2016-2025 Copyright FM&SH, https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB font
+    Arphic PL UKai font
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license along with this file.
+If not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z20098" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <path id="z20098d1" d="M 352 107 C 323 134 276 164 212 202 C 207 204 209 211 213 212 C 231 213 272 196 362 158 C 379 150 409 138 441 126 C 458 119 462 109 450 100 C 432 87 420 81 397 73 C 362 64 360 70 363 85 C 363 93 358 100 352 107 Z"/>
 <path id="z20098d2" d="M 170 293 C 180 303 190 316 202 330 C 208 337 215 340 224 341 C 229 341 234 337 237 331 C 239 324 240 312 237 297 C 233 282 210 269 169 256 C 160 253 155 252 152 254 C 149 254 146 258 148 266 C 148 272 157 280 170 293 Z"/>
 <path id="z20098d3" d="M 288 238 C 315 276 334 295 345 297 C 351 297 357 293 361 285 C 363 278 362 269 358 259 C 348 238 326 224 294 218 C 289 216 286 219 285 225 C 284 228 284 233 288 238 Z"/>

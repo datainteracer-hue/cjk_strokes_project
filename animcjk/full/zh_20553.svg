@@ -1,15 +1,4 @@
 <!--
-AnimCJK 2016-2025 Copyright FM&SH, https://github.com/parsimonhi/animCJK
-Derived from:
-    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
-    Arphic PL KaitiM GB font
-    Arphic PL UKai font
-You can redistribute and/or modify this file under the terms of the Arphic Public License
-as published by Arphic Technology Co., Ltd.
-You should have received a copy of this license along with this file.
-If not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
--->
-<svg id="z20553" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <style>
 <![CDATA[
 @keyframes zk {
@@ -24,12 +13,24 @@ svg.acjk path[clip-path] {
 	stroke-dashoffset:3339;
 	stroke-width:128;
 	stroke-linecap:round;
+	stroke-linejoin:round;
 	fill:none;
 	stroke:#000;
 }
 svg.acjk path[id] {fill:#ccc;}
 ]]>
 </style>
+AnimCJK 2016-2025 Copyright FM&SH, https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB font
+    Arphic PL UKai font
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license along with this file.
+If not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z20553" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <path id="z20553d1" d="M 258 352 C 287 314 317 269 348 219 C 367 186 383 162 400 145 C 407 137 408 128 405 119 C 402 110 390 97 369 81 C 350 67 333 60 320 61 C 307 61 302 71 309 87 C 318 109 318 128 311 148 C 268 252 194 373 83 507 C 63 530 65 544 96 525 C 162 485 192 436 230 388 C 249 364 249 364 258 352 Z"/>
 <path id="z20553d2" d="M 230 388 C 246 432 255 469 256 500 C 256 612 248 706 229 781 C 220 814 227 844 251 878 C 264 896 283 881 287 872 C 297 844 302 813 302 782 C 299 595 302 490 306 439 C 307 419 308 407 303 400 C 290 383 275 364 258 352 C 245 344 224 374 230 388 Z"/>
 <path id="z20553d3" d="M 763 271 C 775 239 791 218 810 204 C 821 194 822 181 813 171 C 803 161 781 149 750 135 C 739 129 727 129 714 134 C 687 143 662 154 639 160 C 602 168 602 168 584 172 C 551 179 518 181 485 186 C 456 190 478 204 490 209 C 496 211 504 214 512 213 C 536 213 558 207 581 203 C 614 196 614 196 631 193 C 660 187 684 181 699 180 C 720 179 732 183 729 204 C 723 232 716 257 709 280 C 702 297 756 288 763 271 Z"/>

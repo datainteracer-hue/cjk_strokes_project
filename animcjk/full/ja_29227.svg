@@ -1,0 +1,37 @@
+<svg id="z29227" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+<path id="z29227d1" d="M 513 374 C 477 402 416 433 331 472 C 324 475 326 483 332 484 C 380 480 564 422 624 407 C 637 405 643 404 646 399 C 648 391 646 383 638 376 C 623 364 599 354 568 341 C 556 335 546 331 537 334 C 531 335 529 341 529 349 C 528 358 522 366 513 374 Z"/>
+<path id="z29227d2" d="M 287 551 C 278 571 256 610 224 669 C 218 679 224 685 233 680 C 248 670 280 637 332 585 C 342 573 353 563 366 554 C 377 545 379 535 371 527 C 361 517 346 510 331 505 C 314 499 304 498 296 501 C 288 503 288 506 291 516 C 294 525 292 538 287 551 Z"/>
+<path id="z29227d3" d="M 467 535 C 495 571 517 597 537 605 C 546 609 556 605 563 597 C 568 589 570 579 569 568 C 564 538 539 520 505 506 C 480 496 467 490 458 494 C 452 495 450 498 452 508 C 452 514 458 523 467 535 Z"/>
+<path id="z29227d4" d="M 720 561 C 738 579 775 587 788 562 C 794 549 782 528 774 515 C 766 502 754 490 730 479 C 678 455 638 438 627 445 C 621 447 614 456 621 466 C 632 482 697 538 720 561 Z"/>
+<defs>
+	<clipPath id="z29227c1"><use href="#z29227d1"/></clipPath>
+	<clipPath id="z29227c2"><use href="#z29227d2"/></clipPath>
+	<clipPath id="z29227c3"><use href="#z29227d3"/></clipPath>
+	<clipPath id="z29227c4"><use href="#z29227d4"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z29227c1)" d="M 538 339 L 589 398 L 332 476"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z29227c2)" d="M 297 505 L 331 545 L 228 675"/>
+<path style="--d:3s;" pathLength="3333" clip-path="url(#z29227c3)" d="M 458 498 L 551 602"/>
+<path style="--d:4s;" pathLength="3333" clip-path="url(#z29227c4)" d="M 623 456 L 780 568"/>
+</svg>

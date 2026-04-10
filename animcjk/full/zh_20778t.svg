@@ -1,15 +1,4 @@
 <!--
-AnimCJK 2016-2025 Copyright FM-SH - https://github.com/parsimonhi/animCJK
-Derived from:
-    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
-    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
-    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
-You can redistribute and/or modify this file under the terms of the Arphic Public License
-as published by Arphic Technology Co., Ltd.
-You should have received a copy of this license (the directory "APL") along with this file;
-if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
--->
-<svg id="z20778" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <style>
 <![CDATA[
 @keyframes zk {
@@ -24,12 +13,24 @@ svg.acjk path[clip-path] {
 	stroke-dashoffset:3339;
 	stroke-width:128;
 	stroke-linecap:round;
+	stroke-linejoin:round;
 	fill:none;
 	stroke:#000;
 }
 svg.acjk path[id] {fill:#ccc;}
 ]]>
 </style>
+AnimCJK 2016-2025 Copyright FM-SH - https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
+    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license (the directory "APL") along with this file;
+if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z20778" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <path id="z20778d1" d="M 250 359 C 277 323 304 281 331 235 C 349 203 364 178 380 163 C 387 155 387 146 384 137 C 380 128 370 115 350 101 C 331 87 314 82 301 83 C 288 83 284 92 291 108 C 300 129 301 147 294 166 C 239 297 162 419 78 518 C 57 541 55 558 92 531 C 151 487 197 426 223 394 C 241 371 241 371 250 359 Z"/>
 <path id="z20778d2" d="M 223 394 C 239 434 248 474 247 513 C 242 621 237 666 236 682 C 230 728 220 760 210 801 C 202 830 207 865 234 897 C 246 911 257 913 267 889 C 277 862 280 833 281 802 C 282 607 288 487 297 444 C 300 425 301 413 295 406 C 267 375 252 360 250 359 C 240 349 218 380 223 394 Z"/>
 <path id="z20778d3" d="M 604 122 C 652 114 703 105 757 97 C 791 91 812 85 818 80 C 834 63 801 50 792 48 C 776 43 734 53 665 71 C 596 88 526 95 457 101 C 436 102 431 112 447 120 C 491 142 526 134 567 128 C 592 124 592 124 604 122 Z"/>

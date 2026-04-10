@@ -1,0 +1,31 @@
+<svg id="z12498" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+<path id="z12498d1" d="M 655 385 C 616 384 582 400 546 411 C 464 436 376 462 292 476 C 281 478 278 511 290 511 C 404 509 525 492 635 461 C 659 453 717 436 708 408 C 701 387 672 385 655 385 Z"/>
+<path id="z12498d2" d="M 209 169 C 208 188 218 201 223 222 C 230 257 215 561 220 700 C 223 795 248 848 350 864 C 485 884 688 862 754 848 C 792 839 814 824 781 796 C 751 771 709 763 673 776 C 570 810 456 824 350 798 C 297 785 289 744 287 700 C 282 634 288 543 290 511 C 291 488 291 488 292 476 C 302 296 314 258 329 220 C 334 206 319 194 309 187 C 287 171 262 161 237 155 C 220 151 209 154 209 169 Z"/>
+<defs>
+	<clipPath id="z12498c1"><use href="#z12498d1"/></clipPath>
+	<clipPath id="z12498c2"><use href="#z12498d2"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z12498c1)" d="M 286 499 L 704 422"/>
+<path style="--d:2s;" pathLength="3333" clip-path="url(#z12498c2)" d="M 216 159 L 277 225 L 280 796 L 435 841 L 791 812"/>
+</svg>

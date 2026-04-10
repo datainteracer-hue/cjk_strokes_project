@@ -1,0 +1,28 @@
+<svg id="z12524" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
+<style>
+<![CDATA[
+@keyframes zk {
+	to {
+		stroke-dashoffset:0;
+	}
+}
+svg.acjk path[clip-path] {
+	--t:0.8s;
+	animation:zk var(--t) linear forwards var(--d);
+	stroke-dasharray:3337;
+	stroke-dashoffset:3339;
+	stroke-width:128;
+	stroke-linecap:round;
+	stroke-linejoin:round;
+	fill:none;
+	stroke:#000;
+}
+svg.acjk path[id] {fill:#ccc;}
+]]>
+</style>
+<path id="z12524d1" d="M 293 212 C 313 253 311 322 303 596 C 300 662 301 718 276 780 C 259 821 333 888 355 873 C 390 845 427 830 463 807 C 564 738 678 660 768 540 C 814 478 859 394 742 511 C 640 611 493 712 392 761 C 347 782 358 721 359 690 C 361 589 368 340 387 272 C 403 209 376 190 344 170 C 258 115 275 177 293 212 Z"/>
+<defs>
+	<clipPath id="z12524c1"><use href="#z12524d1"/></clipPath>
+</defs>
+<path style="--d:1s;" pathLength="3333" clip-path="url(#z12524c1)" d="M 292 163 L 341 228 L 311 785 L 359 836 L 803 468"/>
+</svg>

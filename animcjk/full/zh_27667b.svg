@@ -1,15 +1,4 @@
 <!--
-AnimCJK 2016-2025 Copyright FM-SH, https://github.com/parsimonhi/animCJK
-Derived from:
-    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
-    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
-    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
-You can redistribute and/or modify this file under the terms of the Arphic Public License
-as published by Arphic Technology Co., Ltd.
-You should have received a copy of this license (the directory "APL") along with this file;
-if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
--->
-<svg id="z27667" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <style>
 <![CDATA[
 @keyframes zk {
@@ -24,12 +13,24 @@ svg.acjk path[clip-path] {
 	stroke-dashoffset:3339;
 	stroke-width:128;
 	stroke-linecap:round;
+	stroke-linejoin:round;
 	fill:none;
 	stroke:#000;
 }
 svg.acjk path[id] {fill:#ccc;}
 ]]>
 </style>
+AnimCJK 2016-2025 Copyright FM-SH, https://github.com/parsimonhi/animCJK
+Derived from:
+    MakeMeAHanzi project - https://github.com/skishore/makemeahanzi
+    Arphic PL KaitiM GB - https://apps.ubuntu.com/cat/applications/precise/fonts-arphic-gkai00mp/
+    Arphic PL UKai - https://apps.ubuntu.com/cat/applications/fonts-arphic-ukai/
+You can redistribute and/or modify this file under the terms of the Arphic Public License
+as published by Arphic Technology Co., Ltd.
+You should have received a copy of this license (the directory "APL") along with this file;
+if not, see https://ftp.gnu.org/non-gnu/chinese-fonts-truetype/LICENSE.
+-->
+<svg id="z27667" class="acjk" viewBox="0 0 1024 1024" xmlns="http://www.w3.org/2000/svg">
 <path id="z27667d1" d="M 253 220 C 272 236 291 254 313 274 C 322 282 333 286 344 286 C 352 285 358 281 361 272 C 364 261 362 245 356 225 C 348 204 311 185 247 169 C 236 166 228 166 224 169 C 219 171 217 177 220 187 C 221 194 234 204 253 220 Z"/>
 <path id="z27667d2" d="M 202 454 C 344 416 417 392 421 389 C 426 383 426 377 424 372 C 419 363 406 358 386 355 C 367 352 326 369 257 390 C 163 418 107 425 92 429 C 67 434 63 443 82 453 C 102 464 131 472 164 464 C 189 457 189 457 202 454 Z"/>
 <path id="z27667d3" d="M 164 464 C 182 490 192 543 189 582 C 185 618 178 644 164 661 C 153 673 149 685 156 694 C 163 703 174 710 187 717 C 194 721 206 718 218 706 C 235 688 273 668 335 647 C 360 638 377 637 383 636 C 402 630 413 618 419 608 C 424 597 426 590 423 587 C 418 582 412 586 401 589 C 342 604 291 618 248 635 C 237 638 233 632 234 619 C 236 585 237 550 240 516 C 241 499 239 485 232 477 C 223 467 213 460 202 454 C 191 447 156 454 164 464 Z"/>
